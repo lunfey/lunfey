@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, it's P. 👋
+<br><br>
+<pre>
+currently:
+- learning JavaScript 👾
+- Working with Knime 💻
+- Studying Econ 😵‍💫
+</pre>
+<br><br>
+Hobbies:
+- playing piano
+- Photography
+- Editing [Instagram](https://www.instagram.com/lun.fey/)
+- Random graphic design projects
+- Figure Skating (at times tbh)
 
-<!--
-**lunfey/lunfey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my page! `print('Welcome!')`
